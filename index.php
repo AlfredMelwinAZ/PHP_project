@@ -4,9 +4,9 @@
 
 <?php
 $color = "Yellow";
-echo "My Bag is " . $color . "<br>";
-echo "My Bike is " . $COLOR . "<br>";
-echo "My Book is " . $coLOR . "<br>";
+echo "My Bag is Blue" . $color . "<br>";
+echo "My Bike is Black" . $COLOR . "<br>";
+echo "My Book is Red" . $coLOR . "<br>";
 ?>
 
 </body>
